@@ -15,3 +15,4 @@ This project is part of the Kaggle "Home Data for ML Course" competition. The go
   - TotRmsAbvGrd
 - **Validation MAE:** 21,857
 - **Notes:** This is the initial submission. Future improvements could include adding more features and using advanced models like XGBoost.
+The `submission/submission.csv` file contains the predictions ready to submit to the Kaggle leaderboard.
